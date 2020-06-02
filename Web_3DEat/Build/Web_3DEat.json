@@ -1,0 +1,16 @@
+{
+"companyName": "Shane",
+"productName": "Shane | 肥宅吃吃吃",
+"productVersion": "0.1",
+"dataUrl": "Web_3DEat.data.unityweb",
+"wasmCodeUrl": "Web_3DEat.wasm.code.unityweb",
+"wasmFrameworkUrl": "Web_3DEat.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#828080",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.3f1"
+}
